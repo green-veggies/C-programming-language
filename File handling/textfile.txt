@@ -1,0 +1,1 @@
+cd "d:\c\File handling\" ; if ($?) { gcc basic.c -o basic } ; if ($?) { .\basic }

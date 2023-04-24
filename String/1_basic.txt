@@ -1,0 +1,11 @@
+
+*strings basically characters ke array hote hai
+* array ke elements 4 byte ke address gap pe store hote hai
+  lekin string 1 byte pe store hota hai
+* \0 ka mtlb string end ho gyi 
+* age bina \0 ke bhi run krey to computer automatically \0 lga deta hai
+* ways of printing particular element
+        arr[i]
+        *(arr+i)
+        *(i+arr)
+        i[arr]

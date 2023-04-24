@@ -1,0 +1,1 @@
+printf("String is %s",s);
