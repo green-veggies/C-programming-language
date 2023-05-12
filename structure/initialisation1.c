@@ -14,7 +14,6 @@ int main()
 {
     struct initialisation1 emp1={101,"Aditya",97664.56};
     struct initialisation1 emp2={102,"Rahul",78664.56};
-    
 
     printf("Employee number is %d \n",emp1.num);
     printf("Employee name is %s\n",emp1.name);
